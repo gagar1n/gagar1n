@@ -1,0 +1,4 @@
+- Hi, I’m Mykhailo Voitashevskyi, system and software engineer
+- I’m interested in Cloud technologies, DevOps practices, SRE
+- I’m currently learning Terraform, K8s, Golang and preparing to AWS certification
+- You can reach me via email voytashevskyy@gmail.com
